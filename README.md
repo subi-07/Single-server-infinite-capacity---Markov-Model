@@ -19,6 +19,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
 ## Experiment:
+![WhatsApp Image 2024-12-16 at 17 50 56_ddcd495b](https://github.com/user-attachments/assets/23c442d2-87e7-4fb1-8638-5d309ef6bb8e)
+![WhatsApp Image 2024-12-16 at 17 49 54_bee6e35c](https://github.com/user-attachments/assets/6ea3c857-92fd-4ae4-ad6a-f17b8330deb6)
 
 
  
@@ -66,4 +68,4 @@ Warning! Objects Over flow will happen in the conveyor
 ---------------------------------------------------------------
 ```
 ## Result :
-
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
